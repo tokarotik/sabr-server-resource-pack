@@ -6,6 +6,7 @@
 		"file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
 	],
 	"as_if_resourcepacks": [
-		"punchy:punchy"
+		"punchy:punchy",
+		"vanilla"
 	]
 }

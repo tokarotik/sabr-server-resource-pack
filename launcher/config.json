@@ -3,6 +3,7 @@
 	"host": "2a02:587:681a:e700:2a87:baff:fecc:eb2c",
 	"incompatible_resourcepacks": [],
 	"as_if_resourcepacks": [
+		"vanilla",
 		"punchy:punchy"
 	]
 }

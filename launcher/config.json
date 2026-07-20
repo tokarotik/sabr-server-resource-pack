@@ -1,10 +1,7 @@
 {
 	"version": "26.2",
 	"host": "2a02:587:681a:e700:2a87:baff:fecc:eb2c",
-	"incompatible_resourcepacks": [
-		"file/Weskerson's 3D Items.zip",
-		"file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
-	],
+	"incompatible_resourcepacks": [],
 	"as_if_resourcepacks": [
 		"punchy:punchy",
 		"vanilla"

@@ -6,6 +6,12 @@
 			"download_url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
 			"version_number": "26.2.155+fabric"
 		},
+		"DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar": {
+			"project_id": "uCdwusMi",
+			"project_url": "https://modrinth.com/mod/uCdwusMi",
+			"download_url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gBf0SaV1/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
+			"version_number": "3.2.0-b-26.2"
+		},
 		"entityculling-fabric-1.10.5-mc26.2.jar": {
 			"project_id": "NNAgCjsB",
 			"project_url": "https://modrinth.com/mod/NNAgCjsB",
@@ -101,6 +107,12 @@
 			"project_url": "https://modrinth.com/mod/ffLDUGbm",
 			"download_url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/AMj4XA2a/MossyLib-1.5.0%2B26.2%2Bfabric.jar",
 			"version_number": "1.5.0+26.2+fabric"
+		},
+		"MouseTweaks-fabric-mc26.2-2.31.jar": {
+			"project_id": "aC3cM3Vq",
+			"project_url": "https://modrinth.com/mod/aC3cM3Vq",
+			"download_url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar",
+			"version_number": "26.2-2.31-fabric"
 		},
 		"NoPackCompatCheck-0.1.1-fabric-mc26.1+.jar": {
 			"project_id": "1agMh8Z8",
